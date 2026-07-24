@@ -1,5 +1,5 @@
 {
-    "version":  "1.1.0.0",
-    "installer":  "MusicTrackerSetup-1.1.0.0.exe",
-    "notes":  "Mise à jour auto au démarrage + rapport de bug intégré.\nPistes repliables en hauteur.\nSoundFont téléchargé au 1er lancement (choix manuel possible).\nCorrectifs divers."
+    "version":  "1.1.1.0",
+    "installer":  "MusicTrackerSetup-1.1.1.0.exe",
+    "notes":  "Nouvelle icône d\u0027application et icône dédiée aux fichiers .sq."
 }
