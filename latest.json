@@ -1,5 +1,7 @@
 {
-    "version":  "1.1.1.0",
-    "installer":  "MusicTrackerSetup-1.1.1.0.exe",
-    "notes":  "Nouvelle icône d\u0027application et icône dédiée aux fichiers .sq."
+    "version":  "1.2.0.0",
+    "installer":  "MusicTrackerSetup-1.2.0.0.exe",
+    "notes":  "Choix de la langue dans les Paramètres : Français, English, Deutsch, Italiano, Español, Nederlands, Português.\nL\u0027interface, le journal des nouveautés et les titres générés par l\u0027IA suivent la langue choisie.",
+    "notesFr":  "Choix de la langue dans les Paramètres : Français, English, Deutsch, Italiano, Español, Nederlands, Português.\nL\u0027interface, le journal des nouveautés et les titres générés par l\u0027IA suivent la langue choisie.",
+    "notesEn":  "Language selection in Settings: French, English, German, Italian, Spanish, Dutch, Portuguese.\nThe interface, the what\u0027s-new feed and AI-generated titles follow the chosen language."
 }
