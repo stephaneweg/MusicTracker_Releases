@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.0.0",
-    "installer":  "MusicTrackerSetup-1.2.0.0.exe",
-    "notes":  "Choix de la langue dans les Paramètres : Français, English, Deutsch, Italiano, Español, Nederlands, Português.\nL\u0027interface, le journal des nouveautés et les titres générés par l\u0027IA suivent la langue choisie.",
-    "notesFr":  "Choix de la langue dans les Paramètres : Français, English, Deutsch, Italiano, Español, Nederlands, Português.\nL\u0027interface, le journal des nouveautés et les titres générés par l\u0027IA suivent la langue choisie.",
-    "notesEn":  "Language selection in Settings: French, English, German, Italian, Spanish, Dutch, Portuguese.\nThe interface, the what\u0027s-new feed and AI-generated titles follow the chosen language."
+    "version":  "1.2.1.0",
+    "installer":  "MusicTrackerSetup-1.2.1.0.exe",
+    "notes":  "Traduction complétée : tous les dialogues, l\u0027éditeur timeline et les contrôles sont désormais localisés dans les 7 langues.",
+    "notesFr":  "Traduction complétée : tous les dialogues, l\u0027éditeur timeline et les contrôles sont désormais localisés dans les 7 langues.",
+    "notesEn":  "Translation completed: all dialogs, the timeline editor and controls are now localized in all 7 languages."
 }
