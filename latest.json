@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.1.0",
-    "installer":  "MusicTrackerSetup-1.2.1.0.exe",
-    "notes":  "Traduction complétée : tous les dialogues, l\u0027éditeur timeline et les contrôles sont désormais localisés dans les 7 langues.",
-    "notesFr":  "Traduction complétée : tous les dialogues, l\u0027éditeur timeline et les contrôles sont désormais localisés dans les 7 langues.",
-    "notesEn":  "Translation completed: all dialogs, the timeline editor and controls are now localized in all 7 languages."
+    "version":  "1.3.0.0",
+    "installer":  "MusicTrackerSetup-1.3.0.0.exe",
+    "notes":  "Nouveau : « Ajouter un instrument / une batterie avec l\u0027IA » (menu Piste).\nDécris une intention ; l\u0027IA reçoit tout le morceau et compose une nouvelle piste (ligne mélodique ou mélodie complète) qui s\u0027intègre à l\u0027arrangement.",
+    "notesFr":  "Nouveau : « Ajouter un instrument / une batterie avec l\u0027IA » (menu Piste).\nDécris une intention ; l\u0027IA reçoit tout le morceau et compose une nouvelle piste (ligne mélodique ou mélodie complète) qui s\u0027intègre à l\u0027arrangement.",
+    "notesEn":  "New: \"Add an instrument / drums with AI\" (Track menu).\nDescribe an intention; the AI receives the whole piece and composes a new track (melodic line or full melody) that fits the arrangement."
 }
