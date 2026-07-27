@@ -1,7 +1,7 @@
 {
     "version":  "1.4.0.0",
     "installer":  "KotonStudioSetup-1.4.0.0.exe",
-    "notes":  "Le logiciel devient Koton Studio (nouveau nom et identité). Nouveau : « Fusionner avec le suivant » pour concaténer deux riffs en un seul. Lecture : boucle A-B simplifiée.",
-    "notesFr":  "Le logiciel devient Koton Studio (nouveau nom et identité). Nouveau : « Fusionner avec le suivant » pour concaténer deux riffs en un seul. Lecture : boucle A-B simplifiée.",
-    "notesEn":  "The app is now Koton Studio (new name and identity). New: \"Merge with next\" to concatenate two riffs into one. Playback: simplified A-B loop behavior."
+    "notes":  "Le logiciel devient Koton Studio (nouveau nom, nouveau logo et identité). Nouveau : « Fusionner avec le suivant » pour concaténer deux riffs en un seul. Lecture : boucle A-B simplifiée.",
+    "notesFr":  "Le logiciel devient Koton Studio (nouveau nom, nouveau logo et identité). Nouveau : « Fusionner avec le suivant » pour concaténer deux riffs en un seul. Lecture : boucle A-B simplifiée.",
+    "notesEn":  "The app is now Koton Studio (new name, new logo and identity). New: \"Merge with next\" to concatenate two riffs into one. Playback: simplified A-B loop behavior."
 }
