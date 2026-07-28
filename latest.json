@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.0.1",
-    "installer":  "KotonStudioSetup-1.4.0.1.exe",
-    "notes":  "Export MusicXML : ta partition s\u0027ouvre maintenant dans Finale, Sibelius, Dorico ou n\u0027importe quel editeur de notation. Swing : croches inegales reglables dans « Mesure », de leger a ternaire. Nouveau logo sur l\u0027ecran d\u0027accueil.",
-    "notesFr":  "Export MusicXML : ta partition s\u0027ouvre maintenant dans Finale, Sibelius, Dorico ou n\u0027importe quel editeur de notation. Swing : croches inegales reglables dans « Mesure », de leger a ternaire. Nouveau logo sur l\u0027ecran d\u0027accueil.",
-    "notesEn":  "MusicXML export: your score now opens in Finale, Sibelius, Dorico or any notation editor. Swing: adjustable uneven eighths under \u0027Bar\u0027, from light to triplet. New logo on the home screen."
+    "version":  "1.5.0.0",
+    "installer":  "KotonStudioSetup-1.5.0.0.exe",
+    "notes":  "Batterie polyrythmique + ligne mélodique polyrythmique (calques euclidiens, roue, accent 1er coup) + composition polyrythmique par IA (Mistral, Gemini, Groq, Claude...)",
+    "notesFr":  "Batterie polyrythmique + ligne mélodique polyrythmique (calques euclidiens, roue, accent 1er coup) + composition polyrythmique par IA (Mistral, Gemini, Groq, Claude...)",
+    "notesEn":  "Batterie polyrythmique + ligne mélodique polyrythmique (calques euclidiens, roue, accent 1er coup) + composition polyrythmique par IA (Mistral, Gemini, Groq, Claude...)"
 }
