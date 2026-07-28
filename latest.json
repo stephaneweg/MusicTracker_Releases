@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.0.0",
-    "installer":  "KotonStudioSetup-1.4.0.0.exe",
-    "notes":  "Le logiciel devient Koton Studio (nouveau nom, nouveau logo et identité). Nouveau : « Fusionner avec le suivant » pour concaténer deux riffs en un seul. Lecture : boucle A-B simplifiée.",
-    "notesFr":  "Le logiciel devient Koton Studio (nouveau nom, nouveau logo et identité). Nouveau : « Fusionner avec le suivant » pour concaténer deux riffs en un seul. Lecture : boucle A-B simplifiée.",
-    "notesEn":  "The app is now Koton Studio (new name, new logo and identity). New: \"Merge with next\" to concatenate two riffs into one. Playback: simplified A-B loop behavior."
+    "version":  "1.4.0.1",
+    "installer":  "KotonStudioSetup-1.4.0.1.exe",
+    "notes":  "Export MusicXML : ta partition s\u0027ouvre maintenant dans Finale, Sibelius, Dorico ou n\u0027importe quel editeur de notation. Swing : croches inegales reglables dans « Mesure », de leger a ternaire. Nouveau logo sur l\u0027ecran d\u0027accueil.",
+    "notesFr":  "Export MusicXML : ta partition s\u0027ouvre maintenant dans Finale, Sibelius, Dorico ou n\u0027importe quel editeur de notation. Swing : croches inegales reglables dans « Mesure », de leger a ternaire. Nouveau logo sur l\u0027ecran d\u0027accueil.",
+    "notesEn":  "MusicXML export: your score now opens in Finale, Sibelius, Dorico or any notation editor. Swing: adjustable uneven eighths under \u0027Bar\u0027, from light to triplet. New logo on the home screen."
 }
