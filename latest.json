@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.0.0",
-    "installer":  "KotonStudioSetup-1.5.0.0.exe",
-    "notes":  "Batterie polyrythmique + ligne mélodique polyrythmique (calques euclidiens, roue, accent 1er coup) + composition polyrythmique par IA (Mistral, Gemini, Groq, Claude...)",
-    "notesFr":  "Batterie polyrythmique + ligne mélodique polyrythmique (calques euclidiens, roue, accent 1er coup) + composition polyrythmique par IA (Mistral, Gemini, Groq, Claude...)",
-    "notesEn":  "Batterie polyrythmique + ligne mélodique polyrythmique (calques euclidiens, roue, accent 1er coup) + composition polyrythmique par IA (Mistral, Gemini, Groq, Claude...)"
+    "version":  "1.5.1.0",
+    "installer":  "KotonStudioSetup-1.5.1.0.exe",
+    "notes":  "Rythmes euclidiens et polyrythmie : batterie et ligne melodique multi-calques, roue concentrique avec aiguille de lecture, edition libre des coups. Export MIDI complet (carte de tempo, mute/solo, panoramique, volume et reverbe). Enregistrer sous, export unique par extension, raccourcis Ctrl+S / Ctrl+Maj+S / Ctrl+E. Ecriture atomique des fichiers.",
+    "notesFr":  "Rythmes euclidiens et polyrythmie : batterie et ligne melodique multi-calques, roue concentrique avec aiguille de lecture, edition libre des coups. Export MIDI complet (carte de tempo, mute/solo, panoramique, volume et reverbe). Enregistrer sous, export unique par extension, raccourcis Ctrl+S / Ctrl+Maj+S / Ctrl+E. Ecriture atomique des fichiers.",
+    "notesEn":  "Euclidean rhythms and polyrhythm: multi-layer drums and melodic lines, concentric wheel with a playback needle, free hit editing. Complete MIDI export (tempo map, mute/solo, pan, volume and reverb). Save As, a single extension-driven export, Ctrl+S / Ctrl+Shift+S / Ctrl+E shortcuts. Atomic file writes."
 }
