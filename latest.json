@@ -1,8 +1,8 @@
 {
-    "version":  "2.0.0.2",
-    "installer":  "KotonStudioSetup-2.0.0.2.exe",
-    "portable":  "KotonStudioPortable-2.0.0.2.zip",
-    "notes":  "Correctif : la mise a jour PORTABLE ne pouvait pas aboutir. L\u0027extraction vidait le dossier de travail avant d\u0027ouvrir l\u0027archive - donc elle effacait le zip qu\u0027elle venait de telecharger, et echouait sur \u0027Could not find file\u0027. Une installation portable anterieure a cette version doit etre mise a jour A LA MAIN une fois (telecharger le zip et remplacer le dossier) ; les suivantes se feront toutes seules.",
-    "notesFr":  "Correctif : la mise a jour PORTABLE ne pouvait pas aboutir. L\u0027extraction vidait le dossier de travail avant d\u0027ouvrir l\u0027archive - donc elle effacait le zip qu\u0027elle venait de telecharger, et echouait sur \u0027Could not find file\u0027. Une installation portable anterieure a cette version doit etre mise a jour A LA MAIN une fois (telecharger le zip et remplacer le dossier) ; les suivantes se feront toutes seules.",
-    "notesEn":  "Fix: the PORTABLE update could not complete. Extraction wiped the working folder before opening the archive - so it deleted the zip it had just downloaded, and failed with \u0027Could not find file\u0027. A portable install older than this version must be updated MANUALLY once (download the zip and replace the folder); later updates will run on their own."
+    "version":  "2.0.0.3",
+    "installer":  "KotonStudioSetup-2.0.0.3.exe",
+    "portable":  "KotonStudioPortable-2.0.0.3.zip",
+    "notes":  "Version de verification du mecanisme de mise a jour portable. Aucun changement fonctionnel par rapport a la 2.0.0.2.",
+    "notesFr":  "Version de verification du mecanisme de mise a jour portable. Aucun changement fonctionnel par rapport a la 2.0.0.2.",
+    "notesEn":  "Release published to verify the portable update mechanism. No functional change compared to 2.0.0.2."
 }
