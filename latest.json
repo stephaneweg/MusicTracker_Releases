@@ -1,8 +1,8 @@
 {
-    "version":  "2.0.0.0",
-    "installer":  "KotonStudioSetup-2.0.0.0.exe",
-    "portable":  "KotonStudioPortable-2.0.0.0.zip",
-    "notes":  "Koton Live, un programme a part : micro et MIDI en temps reel, en mode effets ou instrument. Une trentaine d\u0027instruments et d\u0027effets Koton natifs - modeles physiques (duduk, guqin, didgeridoo, kalimba, boite a musique, cornemuse), reverbes, saturation. Hote VST2 et VST3, instruments comme effets. Automation de n\u0027importe quel parametre de plugin le long du morceau, et staccato automatisable sur toutes les pistes. Presets de plugin enregistres au niveau utilisateur, bus de reverbe partage dans le mixeur, ecoute des instruments au survol du menu.",
-    "notesFr":  "Koton Live, un programme a part : micro et MIDI en temps reel, en mode effets ou instrument. Une trentaine d\u0027instruments et d\u0027effets Koton natifs - modeles physiques (duduk, guqin, didgeridoo, kalimba, boite a musique, cornemuse), reverbes, saturation. Hote VST2 et VST3, instruments comme effets. Automation de n\u0027importe quel parametre de plugin le long du morceau, et staccato automatisable sur toutes les pistes. Presets de plugin enregistres au niveau utilisateur, bus de reverbe partage dans le mixeur, ecoute des instruments au survol du menu.",
-    "notesEn":  "Koton Live, a program of its own: microphone and MIDI in real time, as an effects rack or as an instrument. Around thirty native Koton instruments and effects - physical models (duduk, guqin, didgeridoo, kalimba, music box, bagpipes), reverbs, saturation. VST2 and VST3 host, instruments as well as effects. Automate any plugin parameter along the piece, and staccato automation on every track. Plugin presets saved at user level, a shared reverb bus in the mixer, and hover a menu entry to hear the instrument."
+    "version":  "2.0.0.1",
+    "installer":  "KotonStudioSetup-2.0.0.1.exe",
+    "portable":  "KotonStudioPortable-2.0.0.1.zip",
+    "notes":  "Correctif : la version PORTABLE ne pouvait pas se mettre a jour. Le programme de mise a jour (KotonStudioUpdater.exe) manquait dans l\u0027archive 2.0.0.0 : le zip se telechargeait, puis rien ne pouvait l\u0027appliquer. Il est desormais copie automatiquement par la compilation, et la publication refuse de partir sans lui.",
+    "notesFr":  "Correctif : la version PORTABLE ne pouvait pas se mettre a jour. Le programme de mise a jour (KotonStudioUpdater.exe) manquait dans l\u0027archive 2.0.0.0 : le zip se telechargeait, puis rien ne pouvait l\u0027appliquer. Il est desormais copie automatiquement par la compilation, et la publication refuse de partir sans lui.",
+    "notesEn":  "Fix: the PORTABLE build could not update itself. The updater (KotonStudioUpdater.exe) was missing from the 2.0.0.0 archive: the zip downloaded, then nothing could apply it. It is now copied automatically by the build, and the release pipeline refuses to ship without it."
 }
