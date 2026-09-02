@@ -1,8 +1,8 @@
 {
-    "version":  "2.0.0.1",
-    "installer":  "KotonStudioSetup-2.0.0.1.exe",
-    "portable":  "KotonStudioPortable-2.0.0.1.zip",
-    "notes":  "Correctif : la version PORTABLE ne pouvait pas se mettre a jour. Le programme de mise a jour (KotonStudioUpdater.exe) manquait dans l\u0027archive 2.0.0.0 : le zip se telechargeait, puis rien ne pouvait l\u0027appliquer. Il est desormais copie automatiquement par la compilation, et la publication refuse de partir sans lui.",
-    "notesFr":  "Correctif : la version PORTABLE ne pouvait pas se mettre a jour. Le programme de mise a jour (KotonStudioUpdater.exe) manquait dans l\u0027archive 2.0.0.0 : le zip se telechargeait, puis rien ne pouvait l\u0027appliquer. Il est desormais copie automatiquement par la compilation, et la publication refuse de partir sans lui.",
-    "notesEn":  "Fix: the PORTABLE build could not update itself. The updater (KotonStudioUpdater.exe) was missing from the 2.0.0.0 archive: the zip downloaded, then nothing could apply it. It is now copied automatically by the build, and the release pipeline refuses to ship without it."
+    "version":  "2.0.0.2",
+    "installer":  "KotonStudioSetup-2.0.0.2.exe",
+    "portable":  "KotonStudioPortable-2.0.0.2.zip",
+    "notes":  "Correctif : la mise a jour PORTABLE ne pouvait pas aboutir. L\u0027extraction vidait le dossier de travail avant d\u0027ouvrir l\u0027archive - donc elle effacait le zip qu\u0027elle venait de telecharger, et echouait sur \u0027Could not find file\u0027. Une installation portable anterieure a cette version doit etre mise a jour A LA MAIN une fois (telecharger le zip et remplacer le dossier) ; les suivantes se feront toutes seules.",
+    "notesFr":  "Correctif : la mise a jour PORTABLE ne pouvait pas aboutir. L\u0027extraction vidait le dossier de travail avant d\u0027ouvrir l\u0027archive - donc elle effacait le zip qu\u0027elle venait de telecharger, et echouait sur \u0027Could not find file\u0027. Une installation portable anterieure a cette version doit etre mise a jour A LA MAIN une fois (telecharger le zip et remplacer le dossier) ; les suivantes se feront toutes seules.",
+    "notesEn":  "Fix: the PORTABLE update could not complete. Extraction wiped the working folder before opening the archive - so it deleted the zip it had just downloaded, and failed with \u0027Could not find file\u0027. A portable install older than this version must be updated MANUALLY once (download the zip and replace the folder); later updates will run on their own."
 }
