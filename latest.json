@@ -1,8 +1,8 @@
 {
-    "version":  "2.0.0.3",
-    "installer":  "KotonStudioSetup-2.0.0.3.exe",
-    "portable":  "KotonStudioPortable-2.0.0.3.zip",
-    "notes":  "Version de verification du mecanisme de mise a jour portable. Aucun changement fonctionnel par rapport a la 2.0.0.2.",
-    "notesFr":  "Version de verification du mecanisme de mise a jour portable. Aucun changement fonctionnel par rapport a la 2.0.0.2.",
-    "notesEn":  "Release published to verify the portable update mechanism. No functional change compared to 2.0.0.2."
+    "version":  "2.0.0.2",
+    "installer":  "KotonStudioSetup-2.0.0.2.exe",
+    "portable":  "KotonStudioPortable-2.0.0.2.zip",
+    "notes":  "Correctif de la mise a jour portable. L\u0027application construisait la ligne de commande de l\u0027updater a la main : le dossier cible se terminant par une barre oblique inverse, le guillemet fermant etait echappe et l\u0027argument avalait la suite de la ligne. L\u0027updater rejetait ses arguments et ne faisait rien. Il passait aussi le .dll au lieu de l\u0027exe a relancer. L\u0027updater livre repare desormais les deux cas, y compris pour les installations deja deployees.",
+    "notesFr":  "Correctif de la mise a jour portable. L\u0027application construisait la ligne de commande de l\u0027updater a la main : le dossier cible se terminant par une barre oblique inverse, le guillemet fermant etait echappe et l\u0027argument avalait la suite de la ligne. L\u0027updater rejetait ses arguments et ne faisait rien. Il passait aussi le .dll au lieu de l\u0027exe a relancer. L\u0027updater livre repare desormais les deux cas, y compris pour les installations deja deployees.",
+    "notesEn":  "Portable update fix. The app built the updater command line by hand: as the target folder ends with a backslash, the closing quote was escaped and the argument swallowed the rest of the line. The updater rejected its arguments and did nothing. It was also passed the .dll instead of the exe to relaunch. The shipped updater now repairs both cases, including for already-deployed installs."
 }
