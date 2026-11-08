@@ -1,8 +1,8 @@
-﻿{
-    "version":  "2.0.0.2",
-    "installer":  "KotonStudioSetup-2.0.0.2.exe",
-    "portable":  "KotonStudioPortable-2.0.0.2.zip",
-    "notes":  "Correctif de la mise a jour portable. L\u0027application construisait la ligne de commande de l\u0027updater a la main : le dossier cible se terminant par une barre oblique inverse, le guillemet fermant etait echappe et l\u0027argument avalait la suite de la ligne. L\u0027updater rejetait ses arguments et ne faisait rien. Il passait aussi le .dll au lieu de l\u0027exe a relancer. L\u0027updater livre repare desormais les deux cas, y compris pour les installations deja deployees.",
-    "notesFr":  "Correctif de la mise a jour portable. L\u0027application construisait la ligne de commande de l\u0027updater a la main : le dossier cible se terminant par une barre oblique inverse, le guillemet fermant etait echappe et l\u0027argument avalait la suite de la ligne. L\u0027updater rejetait ses arguments et ne faisait rien. Il passait aussi le .dll au lieu de l\u0027exe a relancer. L\u0027updater livre repare desormais les deux cas, y compris pour les installations deja deployees.",
-    "notesEn":  "Portable update fix. The app built the updater command line by hand: as the target folder ends with a backslash, the closing quote was escaped and the argument swallowed the rest of the line. The updater rejected its arguments and did nothing. It was also passed the .dll instead of the exe to relaunch. The shipped updater now repairs both cases, including for already-deployed installs."
+{
+    "version":  "2.0.1.0",
+    "installer":  "KotonStudioSetup-2.0.1.0.exe",
+    "portable":  "KotonStudioPortable-2.0.1.0.zip",
+    "notes":  "Nouveau clavier d\u0027accords dans l\u0027éditeur d\u0027accords, nouveau générateur Arabesque, et améliorations des suggestions et de l\u0027articulation des accords.",
+    "notesFr":  "Nouveau clavier d\u0027accords dans l\u0027éditeur d\u0027accords, nouveau générateur Arabesque, et améliorations des suggestions et de l\u0027articulation des accords.",
+    "notesEn":  "New chord keyboard in the chord editor, new Arabesque generator plugin, and improved chord suggestions and articulation."
 }
